@@ -1,3 +1,5 @@
+# 5. Fazit und Forderungen 
+
 Der **Instrumentenkoffer** bietet eine umfassende Sammlung von Empfehlungen für die Gestaltung inklusiver Citizen Science-Projekte. Diese umfassen sowohl theoretische Grundlagen als auch praxisorientierte Handlungsanleitungen. Der Schwerpunkt liegt auf der praktischen Umsetzbarkeit, um deutlich zu machen, dass die Einbindung von Menschen mit Behinderungen in Forschungsprojekte nicht nur notwendig, sondern auch realisierbar ist. Mit gezielten Ansätzen, wie der Bereitstellung von Hilfs- und Assistenzmitteln sowie geeigneten Beratungs- und Informationsangeboten, wird eine gleichberechtigte Partizipation ermöglicht.
 
 Die Handreichung möchte verdeutlichen, dass die Beteiligung von Menschen mit Behinderungen nicht nur machbar ist, sondern auch einen unschätzbaren Mehrwert für alle Beteiligten darstellt. Ziel ist es, die Partizipation als Normalität zu etablieren – nicht nur für Menschen mit Behinderungen, sondern auch für andere marginalisierte Gruppen wie Menschen mit geringen Deutsch- oder Digitalkenntnissen, Senior\*innen oder arbeitslose Personen.

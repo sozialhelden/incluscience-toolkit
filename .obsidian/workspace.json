@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/06-Literatur.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "06-Literatur"
             }
           }
         ],
@@ -285,6 +285,9 @@
   },
   "active": "7ad8f252cd4e68e7",
   "lastOpenFiles": [
+    "docs/05-Fazit und Forderungen.md",
+    "docs/index.md",
+    "docs/1. Einführung und Begriffsklärungen/1. Einführung und Begriffsklärungen.md",
     "0. Vorwort und Überblick.md",
     "site/assets/javascripts/lunr/min/lunr.vi.min.js",
     "site/assets/javascripts/lunr/min/lunr.zh.min.js",
@@ -322,10 +325,7 @@
     "docs/1. Einführung und Begriffsklärungen/1.3 Inklusive Citizen Science.md",
     "docs/1. Einführung und Begriffsklärungen/1.2 Inklusion.md",
     "docs/1. Einführung und Begriffsklärungen/1.1 Behinderung.md",
-    "docs/1. Einführung und Begriffsklärungen/0. Intro.md",
-    "docs/index.md",
-    "docs/6. Literatur.md",
-    "docs/5. Fazit und Forderungen.md",
+    "docs/06-Literatur.md",
     "1. Einführung und Begriffsklärungen/0. Intro.md",
     "Instrumentenkoffer_v1.0 1.md",
     "6. Literatur.md",
