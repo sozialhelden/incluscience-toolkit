@@ -1,3 +1,5 @@
+# Vorwort und Überblick
+
 Citizen Scientists forschen.
 
 Diese einfache Feststellung fasst viele Diskurse, Kontroversen, unterschiedliche Begriffsverständnisse und langjährige Forschungsergebnisse zusammen. Es sind nicht nur berufliche Wissenschaftler\*innen, die forschen, sondern unsere Gesellschaft vertraut auf wichtige Forschungsergebnisse von Bürger\*innen, Betroffenen und Engagierten. Das sind oft nicht beruflich oder nur nebenberuflich und meist nicht bezahlte Forschende mit oft sehr tief greifender Expertise. Diese Menschen repräsentieren die Themen, die sie bewegen, und sind ein Spiegel unserer Gesellschaft. Dazu gehört auch, dass Menschen mit Behinderungen mitforschen. Darum haben wir uns entschieden, in diesem Dokument bewusst alle Menschen anzusprechen. Das wollen wir unter anderem mit der Formulierung „Citizen Scientists” deutlich machen.
