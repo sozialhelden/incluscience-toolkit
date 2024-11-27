@@ -1,0 +1,326 @@
+{
+  "main": {
+    "id": "883cbe5986ee6709",
+    "type": "split",
+    "children": [
+      {
+        "id": "df17a3dd7c9e608d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18565ce670174d9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Vorwort und Überblick.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. Vorwort und Überblick"
+            }
+          },
+          {
+            "id": "a7c76ecb4fe3eaf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Vorwort und Überblick.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. Vorwort und Überblick"
+            }
+          },
+          {
+            "id": "6094bce47f620a23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Vorwort und Überblick.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. Vorwort und Überblick"
+            }
+          },
+          {
+            "id": "10368609995164b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Vorwort und Überblick.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. Vorwort und Überblick"
+            }
+          },
+          {
+            "id": "5d43ca6966d4c738",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Vorwort und Überblick.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. Vorwort und Überblick"
+            }
+          },
+          {
+            "id": "a2f967ffec6c081b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Vorwort und Überblick.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. Vorwort und Überblick"
+            }
+          },
+          {
+            "id": "283703e64ab25b6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Einführung und Begriffsklärungen/1.3 Inklusive Citizen Science.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.3 Inklusive Citizen Science"
+            }
+          },
+          {
+            "id": "0a2a24235c22d169",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Citizen Science in der Praxis/0. Intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. Intro"
+            }
+          },
+          {
+            "id": "7ad8f252cd4e68e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Fazit und Forderungen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Fazit und Forderungen"
+            }
+          },
+          {
+            "id": "82a44f40a0a25f47",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8013a5b67f6fd464",
+    "type": "split",
+    "children": [
+      {
+        "id": "c476de480997f2af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57b119498bb2e762",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ddb733f813b93b59",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aa317da6d81eb802",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "34d95a9b195a9e0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfff3e29ce2b7ce3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "addaab57e9dee3ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "982f4214afcff9f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b4d22167a9af7770",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "15ac14e59e114dd5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "82a44f40a0a25f47",
+  "lastOpenFiles": [
+    "0. Vorwort und Überblick.md",
+    "Instrumentenkoffer_v1.0 1.md",
+    "6. Literatur.md",
+    "5. Fazit und Forderungen.md",
+    "1. Einführung und Begriffsklärungen/0. Intro.md",
+    "4. Citizen Science in der Praxis/4.3 Nachhaltige Integration von Geodaten in OpenStreetMap.md",
+    "0. Intro.md",
+    "4. Citizen Science in der Praxis/4.2 Partizipatives Vorgehen in der Umsetzung eines Citizen Science-Projekts am Beispiel von IncluScience.md",
+    "5. Fazit und Forderungen",
+    "4. Citizen Science in der Praxis/4.1 Planung und Durchführung von Veranstaltungen.md",
+    "4. Citizen Science in der Praxis/0. Intro.md",
+    "4. Citizen Science in der Praxis",
+    "3. Kommunikation/3.2 Tools und weiterführende Quellen zum Thema einfache und Leichte Sprache.md",
+    "3. Kommunikation/3.1 Leichte Sprache.md",
+    "2. Partizipative Forschung planen/2.6 Aufwandsentschädigung.md",
+    "2. Partizipative Forschung planen/2.1 Ansätze partizipativer Forschung.md",
+    "3. Kommunikation",
+    "2. Partizipative Forschung planen/2.5 Beratungs- und Informationsangebote.md",
+    "2. Partizipative Forschung planen/2.4 Hilfs- und Assistenzmittel.md",
+    "2. Partizipative Forschung planen/2.3 Partizipative Methoden.md",
+    "2. Partizipative Forschung planen/2.2 Menschen mit Behinderungen als Co-Forschende.md",
+    "2. Partizipative Forschung planen",
+    "1. Einführung und Begriffsklärungen/1.4 Disability Mainstreaming.md",
+    "1. Einführung und Begriffsklärungen/1.3 Inklusive Citizen Science.md",
+    "1. Einführung und Begriffsklärungen/1.2 Inklusion.md",
+    "1. Einführung und Begriffsklärungen/1.1 Behinderung.md",
+    "1. Einführung und Begriffsklärungen",
+    "Partizipative Forschung planen",
+    "Vorwort und Überblick/Untitled 2",
+    "Vorwort und Überblick/Untitled 1",
+    "Kapitel 1",
+    "Partizipative Forschung planen",
+    "Welcome.md",
+    "Instrumentenkoffer_v1.0.md",
+    "Einführung und Begriffsklärungen/Behinderung.md",
+    "Einführung und Begriffsklärungen/Untitled.canvas",
+    "Einführung und Begriffsklärungen/Einführung und Begriffsklärungen 1.md"
+  ]
+}
