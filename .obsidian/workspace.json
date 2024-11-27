@@ -137,10 +137,14 @@
             "id": "82a44f40a0a25f47",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "0. Vorwort und Überblick.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. Vorwort und Überblick"
             }
           }
         ],
@@ -295,11 +299,11 @@
   },
   "active": "82a44f40a0a25f47",
   "lastOpenFiles": [
+    "1. Einführung und Begriffsklärungen/0. Intro.md",
     "0. Vorwort und Überblick.md",
     "Instrumentenkoffer_v1.0 1.md",
     "6. Literatur.md",
     "5. Fazit und Forderungen.md",
-    "1. Einführung und Begriffsklärungen/0. Intro.md",
     "4. Citizen Science in der Praxis/4.3 Nachhaltige Integration von Geodaten in OpenStreetMap.md",
     "0. Intro.md",
     "4. Citizen Science in der Praxis/4.2 Partizipatives Vorgehen in der Umsetzung eines Citizen Science-Projekts am Beispiel von IncluScience.md",
