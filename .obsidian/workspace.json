@@ -125,30 +125,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Fazit und Forderungen.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Fazit und Forderungen"
-            }
-          },
-          {
-            "id": "82a44f40a0a25f47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Vorwort und Überblick.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0. Vorwort und Überblick"
+              "title": "index"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -297,44 +283,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82a44f40a0a25f47",
+  "active": "7ad8f252cd4e68e7",
   "lastOpenFiles": [
-    "1. Einführung und Begriffsklärungen/0. Intro.md",
     "0. Vorwort und Überblick.md",
+    "site/assets/javascripts/lunr/min/lunr.vi.min.js",
+    "site/assets/javascripts/lunr/min/lunr.zh.min.js",
+    "site/assets/javascripts/lunr/min/lunr.tr.min.js",
+    "site/assets/javascripts/lunr/min/lunr.th.min.js",
+    "site/assets/javascripts/lunr/min/lunr.te.min.js",
+    "site/assets/javascripts/lunr/min/lunr.ta.min.js",
+    "site/assets/javascripts/lunr/min/lunr.stemmer.support.min.js",
+    "site/assets/javascripts/lunr/min/lunr.sv.min.js",
+    "site/assets/javascripts/lunr/min/lunr.sa.min.js",
+    "site/assets/javascripts/lunr/min/lunr.ru.min.js",
+    "site/assets/images/favicon.png",
+    "site/images/sozialhelden.svg",
+    "site/images/logo-white.svg",
+    "site/images/logo-dark.svg",
+    "site/images/IncluScience Share Pic.png",
+    "site/assets/favicon.png",
+    "docs/images/sozialhelden.svg",
+    "docs/images/logo-dark.svg",
+    "docs/images/logo-white.svg",
+    "docs/images/IncluScience Share Pic.png",
+    "docs/4. Citizen Science in der Praxis/4.3 Nachhaltige Integration von Geodaten in OpenStreetMap.md",
+    "docs/4. Citizen Science in der Praxis/4.2 Partizipatives Vorgehen in der Umsetzung eines Citizen Science-Projekts am Beispiel von IncluScience.md",
+    "docs/4. Citizen Science in der Praxis/4.1 Planung und Durchführung von Veranstaltungen.md",
+    "docs/4. Citizen Science in der Praxis/0. Intro.md",
+    "docs/3. Kommunikation/3.2 Tools und weiterführende Quellen zum Thema einfache und Leichte Sprache.md",
+    "docs/3. Kommunikation/3.1 Leichte Sprache.md",
+    "docs/2. Partizipative Forschung planen/2.6 Aufwandsentschädigung.md",
+    "docs/2. Partizipative Forschung planen/2.5 Beratungs- und Informationsangebote.md",
+    "docs/2. Partizipative Forschung planen/2.4 Hilfs- und Assistenzmittel.md",
+    "docs/2. Partizipative Forschung planen/2.3 Partizipative Methoden.md",
+    "docs/2. Partizipative Forschung planen/2.2 Menschen mit Behinderungen als Co-Forschende.md",
+    "docs/2. Partizipative Forschung planen/2.1 Ansätze partizipativer Forschung.md",
+    "docs/1. Einführung und Begriffsklärungen/1.4 Disability Mainstreaming.md",
+    "docs/1. Einführung und Begriffsklärungen/1.3 Inklusive Citizen Science.md",
+    "docs/1. Einführung und Begriffsklärungen/1.2 Inklusion.md",
+    "docs/1. Einführung und Begriffsklärungen/1.1 Behinderung.md",
+    "docs/1. Einführung und Begriffsklärungen/0. Intro.md",
+    "docs/index.md",
+    "docs/6. Literatur.md",
+    "docs/5. Fazit und Forderungen.md",
+    "1. Einführung und Begriffsklärungen/0. Intro.md",
     "Instrumentenkoffer_v1.0 1.md",
     "6. Literatur.md",
     "5. Fazit und Forderungen.md",
-    "4. Citizen Science in der Praxis/4.3 Nachhaltige Integration von Geodaten in OpenStreetMap.md",
-    "0. Intro.md",
-    "4. Citizen Science in der Praxis/4.2 Partizipatives Vorgehen in der Umsetzung eines Citizen Science-Projekts am Beispiel von IncluScience.md",
-    "5. Fazit und Forderungen",
-    "4. Citizen Science in der Praxis/4.1 Planung und Durchführung von Veranstaltungen.md",
-    "4. Citizen Science in der Praxis/0. Intro.md",
-    "4. Citizen Science in der Praxis",
-    "3. Kommunikation/3.2 Tools und weiterführende Quellen zum Thema einfache und Leichte Sprache.md",
-    "3. Kommunikation/3.1 Leichte Sprache.md",
-    "2. Partizipative Forschung planen/2.6 Aufwandsentschädigung.md",
-    "2. Partizipative Forschung planen/2.1 Ansätze partizipativer Forschung.md",
-    "3. Kommunikation",
-    "2. Partizipative Forschung planen/2.5 Beratungs- und Informationsangebote.md",
-    "2. Partizipative Forschung planen/2.4 Hilfs- und Assistenzmittel.md",
-    "2. Partizipative Forschung planen/2.3 Partizipative Methoden.md",
-    "2. Partizipative Forschung planen/2.2 Menschen mit Behinderungen als Co-Forschende.md",
-    "2. Partizipative Forschung planen",
-    "1. Einführung und Begriffsklärungen/1.4 Disability Mainstreaming.md",
-    "1. Einführung und Begriffsklärungen/1.3 Inklusive Citizen Science.md",
-    "1. Einführung und Begriffsklärungen/1.2 Inklusion.md",
-    "1. Einführung und Begriffsklärungen/1.1 Behinderung.md",
-    "1. Einführung und Begriffsklärungen",
-    "Partizipative Forschung planen",
-    "Vorwort und Überblick/Untitled 2",
-    "Vorwort und Überblick/Untitled 1",
-    "Kapitel 1",
-    "Partizipative Forschung planen",
-    "Welcome.md",
-    "Instrumentenkoffer_v1.0.md",
-    "Einführung und Begriffsklärungen/Behinderung.md",
-    "Einführung und Begriffsklärungen/Untitled.canvas",
-    "Einführung und Begriffsklärungen/Einführung und Begriffsklärungen 1.md"
+    "Einführung und Begriffsklärungen/Untitled.canvas"
   ]
 }
