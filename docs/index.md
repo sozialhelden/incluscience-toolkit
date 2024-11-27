@@ -14,7 +14,7 @@ Der Inhalt des Citizen-Science-Instrumentenkoffers umfasst die in diesem Projekt
 
 Resultat ist schließlich das hier vorliegende Dokument, das hilfreiche Empfehlungen für folgende Themen bietet:
 
-* **[[Kapitel 1:]]** Einführung grundlegender Begriffe und Konzepte. Die Themen Behinderung, Inklusion, inklusive Citizen Science sowie Disability Mainstreaming werden dabei berücksichtigt. 
+* **[[docs/1. Einführung und Begriffsklärungen/0. Intro|0. Intro]]:** Einführung grundlegender Begriffe und Konzepte. Die Themen Behinderung, Inklusion, inklusive Citizen Science sowie Disability Mainstreaming werden dabei berücksichtigt. 
 * **Kapitel 2**: Praxisnahe Planung der Partizipation von Menschen mit Behinderungen, einschließlich der Beteiligung an der Forschungsfrage sowie der Frage nach Assistenz und Aufwandsentschädigung.  
 * **Kapitel 3**: Gestaltung barrierearmer Kommunikationswege. Hier geht es um die Ansprache von Menschen mit Behinderungen als Expert\*innen und die Gestaltung inklusiver Kommunikation.  
 * **Kapitel 4**: Citizen Science in der Praxis. Dieses Kapitel umfasst Themen wie die Planung und Durchführung von Veranstaltungen, iterative Vorgehensweisen und inklusive Ansätze.
