@@ -2,7 +2,7 @@
 
 Disability Mainstreaming lehnt sich an das sogenannte „Gender Mainstreaming“ an, das die Gleichstellung von Mann und Frau zum Thema hat. Übertragen auf Disability Mainstreaming – „Disability“ kann wörtlich mit „Behinderung“ übersetzt werden – bedeutet dies, dass nun der Fokus nicht mehr auf der Geschlechteremanzipation liegt. Es geht vielmehr um die Emanzipation von Menschen mit Behinderungen. Das heißt, dass Menschen mit Behinderungen nicht mehr nur dann einbezogen werden, wenn sie Gegenstand oder Ergebnis eines Prozesses sind, sondern grundsätzlich in allen Handlungsebenen und Projektphasen.
 
-Die Verankerung ihrer Belange und Sichtweisen bedarf schließlich ein Umdenken im Forschungsdesign, das eine inklusive Beteiligung von Menschen mit Behinderungen in allen Phasen eines Projekts (Planung, Umsetzung, Nachbereitung) meint, um Disability Mainstreaming in der Citizen Science zu realisieren.
+Die Verankerung ihrer Belange und Sichtweisen bedarf schließlich eines Umdenkens im Forschungsdesign, das eine inklusive Beteiligung von Menschen mit Behinderungen in allen Phasen eines Projekts (Planung, Umsetzung, Nachbereitung) meint, um Disability Mainstreaming in der Citizen Science zu realisieren.
 
 !!! tip "Tipp"
 	

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/6-literatur/index.md",
+                "file": "docs/1-intro/04-disability-mainstreaming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "04-disability-mainstreaming"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Anforderungen an digitale Barrierefreiheit frühzeitig festlegen",
+                "query": "\"bedarf schließlich\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,6 +173,7 @@
   },
   "active": "79dba0213e92c7d9",
   "lastOpenFiles": [
+    "docs/6-literatur/index.md",
     "docs/4-citizen-science-in-der-praxis/03-openstreetmap-geodaten.md",
     "docs/4-citizen-science-in-der-praxis/04-openstreetmap-geodaten.md",
     "docs/4-citizen-science-in-der-praxis/03-partizipativ-vorgehen.md",
@@ -181,7 +182,6 @@
     "docs/4-citizen-science-in-der-praxis/01-veranstaltungen-planen.md",
     "docs/5-fazit/index.md",
     "docs/1-intro/01-behinderung.md",
-    "docs/6-literatur/index.md",
     "docs/2-partizipative-forschung-planen/02-partizipative-methoden.md",
     "docs/1-intro/index.md",
     "docs/1-intro/04-disability-mainstreaming.md",
