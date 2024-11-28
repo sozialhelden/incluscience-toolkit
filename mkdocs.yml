@@ -26,12 +26,12 @@ site_description: >-
   Ein Toolkit für inklusive Citizen Science-Projekte. Checklisten, Methoden und Tools für die Planung und Durchführung von Citizen Science-Projekten, die für alle Menschen zugänglich sind.
 
 # Repository
-repo_name: sozialhelden/incluscience-toolkit
-repo_url: https://github.com/sozialhelden/incluscience-toolkit
-# edit_uri: https://github.com/sozialhelden/k8s/edit/master/docs/
+# repo_name: sozialhelden/incluscience-toolkit
+# repo_url: https://github.com/sozialhelden/incluscience-toolkit
+# edit_uri: https://github.com/sozialhelden/incluscience-toolkit/edit/main/docs/
 
 # Copyright
-copyright: Copyright &copy; 2018-2024 Sozialhelden e.V.
+copyright: Copyright &copy; 2018-2024 Sozialhelden e.V., Sozialforschungsstelle Dortmund
 
 # Configuration
 theme:
