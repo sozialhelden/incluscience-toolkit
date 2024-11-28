@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/4. Citizen Science in der Praxis/4.2 Partizipatives Vorgehen in der Umsetzung eines Citizen Science-Projekts am Beispiel von IncluScience.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.2 Partizipatives Vorgehen in der Umsetzung eines Citizen Science-Projekts am Beispiel von IncluScience"
+              "title": "index"
             }
           }
         ],
@@ -243,7 +243,17 @@
   },
   "active": "a2f967ffec6c081b",
   "lastOpenFiles": [
+    "docs/images/share-pic.png",
     "docs/4. Citizen Science in der Praxis/4.1 Planung und Durchführung von Veranstaltungen.md",
+    "docs/images/sozialhelden-icon.svg",
+    "docs/images/sozialheld-innen.svg",
+    "docs/images/logo-white.svg",
+    "docs/images/logo-dark.svg",
+    "docs/images/logo-complex.svg",
+    "docs/images/IncluScience Share Pic.png",
+    "docs/images/IncluScience Share Pic 1.png",
+    "docs/assets/favicon.png",
+    "docs/6. Literatur/index.md",
     "docs/4. Citizen Science in der Praxis/4.2 Partizipatives Vorgehen in der Umsetzung eines Citizen Science-Projekts am Beispiel von IncluScience.md",
     "docs/4. Citizen Science in der Praxis/4.3 Nachhaltige Integration von Geodaten in OpenStreetMap.md",
     "docs/2. Partizipative Forschung planen/2.5 Aufwandsentschädigung.md",
@@ -251,7 +261,6 @@
     "docs/2. Partizipative Forschung planen/2.3 Hilfs- und Assistenzmittel.md",
     "docs/2. Partizipative Forschung planen/2.2 Partizipative Methoden.md",
     "docs/2. Partizipative Forschung planen/2.1 Menschen mit Behinderungen als Co-Forschende.md",
-    "docs/6. Literatur/index.md",
     "docs/6. Literatur",
     "docs/5. Fazit und Forderungen/index.md",
     "docs/5. Fazit und Forderungen",
@@ -273,22 +282,13 @@
     "docs/1. Einführung und Begriffsklärungen/01-Behinderung.md",
     "docs/1. Einführung und Begriffsklärungen",
     "docs/1. Einführung/index.md",
-    "docs/4. Citizen Science in der Praxis/index.md",
     "docs/4. Citizen Science in der Praxis",
     "docs/3. Kommunikation",
     "docs/2. Partizipative Forschung planen",
     "docs/1. Einführung",
     "docs/Einführung",
-    "docs/images/sozialheld-innen.svg",
-    "docs/images/sozialhelden-icon.svg",
-    "docs/images/IncluScience Share Pic.png",
-    "docs/images/logo-complex.svg",
     "site/assets/images/favicon.png",
     "site/images/sozialhelden.svg",
-    "site/images/logo-white.svg",
-    "site/images/logo-dark.svg",
-    "docs/images/IncluScience Share Pic 1.png",
-    "site/assets/favicon.png",
     "Einführung und Begriffsklärungen/Untitled.canvas"
   ]
 }

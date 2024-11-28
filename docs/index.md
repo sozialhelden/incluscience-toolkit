@@ -25,6 +25,5 @@ Alle (Teil-)Kapitel enden jeweils mit konkreten Gestaltungsempfehlungen sowie �
 
 Wir wünschen gute Lektüre. Vielleicht setzen Sie in Ihrem nächsten Vorhaben einige Ideen um. Es würde uns freuen.
 
-![Logo der Sozialheld\*innen|300](images/sozialheld-innen.svg)
-
-![Logos der TU Dortmund und Sozialforschungsstelle: Ein t und ein u in grün sowie der Schriftzug sfs auf rotem Grund.|150](https://incluscience.org/wp-content/uploads/2021/08/TU-sfs_Logo.jpg)
+[Sozialheld\*innen](https://sozialhelden.de)
+[Sozialforschungsstelle derTU Dortmund](https://sfs.sowi.tu-dortmund.de)

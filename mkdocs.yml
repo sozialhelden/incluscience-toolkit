@@ -66,7 +66,7 @@ theme:
   icon:
     logo: logo
   logo: images/logo-white.svg
-  favicon: assets/logo-dark.png
+  favicon: assets/favicon.png
   custom_dir: overrides
   
 # Plugins
