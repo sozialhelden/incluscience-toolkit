@@ -6,15 +6,15 @@ Im Folgenden werden, ohne den Anspruch auf Vollständigkeit zu erheben, gängige
 
 ### Das individuelle (medizinische) Modell
 
-Das individuelle (medizinische) Modell (mehr dazu u.a. in [[docs/6. Literatur/index|Egen, 2020, S. 23-26; Kastl, 2017, S. 47; Waldschmidt, 2005, S. 10-17]]) greift Behinderung ausschließlich als eine Beeinträchtigung des Körpers, der Psyche oder des Geistes einer Person auf und reduziert Menschen mit Behinderung daher darauf. Dies führt häufig zu einer Fokussierung auf Defizite und Nicht-Leistungsfähigkeit. Außerdem wird die Rolle von Gesellschaft und Mitmenschen oder Technologien in dieser Perspektive eher wenig beleuchtet.
+Das individuelle (medizinische) Modell (mehr dazu u.a. in [Egen, 2020, S. 23-26; Kastl, 2017, S. 47; Waldschmidt, 2005, S. 10-17](../6-literatur/index.md)) greift Behinderung ausschließlich als eine Beeinträchtigung des Körpers, der Psyche oder des Geistes einer Person auf und reduziert Menschen mit Behinderung daher darauf. Dies führt häufig zu einer Fokussierung auf Defizite und Nicht-Leistungsfähigkeit. Außerdem wird die Rolle von Gesellschaft und Mitmenschen oder Technologien in dieser Perspektive eher wenig beleuchtet.
 
 ### Das soziale Modell
 
-Als kritische Reaktion auf das eher medizinisch ausgerichtete individuelle Modell entwickelte sich das soziale Modell. Dieses erweitert das medizinische Modell aus gesellschaftlicher und sozialer Sicht, indem es Behinderung nicht mehr als Pathologie, sondern als gesellschaftliches Ergebnis betrachtet. Das heißt, dass die Behinderung nicht aufgrund einer körperlichen, psychischen oder geistigen Beeinträchtigung entsteht, sondern vielmehr durch soziale Systeme bzw. soziale Benachteiligung (mehr dazu u.a. in [[docs/6. Literatur/index|Egen, 2020, S. 26-32; Kastl, 2017, S. 48; Waldschmidt, 2005, S. 17-24]]).
+Als kritische Reaktion auf das eher medizinisch ausgerichtete individuelle Modell entwickelte sich das soziale Modell. Dieses erweitert das medizinische Modell aus gesellschaftlicher und sozialer Sicht, indem es Behinderung nicht mehr als Pathologie, sondern als gesellschaftliches Ergebnis betrachtet. Das heißt, dass die Behinderung nicht aufgrund einer körperlichen, psychischen oder geistigen Beeinträchtigung entsteht, sondern vielmehr durch soziale Systeme bzw. soziale Benachteiligung (mehr dazu u.a. in [Egen, 2020, S. 26-32; Kastl, 2017, S. 48; Waldschmidt, 2005, S. 17-24](../6-literatur/index.md)).
 
 ### Das kulturelle Modell
 
-Auf Grundlage einer Weiterentwicklung wurde in den 1990er Jahren das soziale Modell zu einem kulturell geprägten Modell erweitert. Dieses sieht Behinderung als abhängig von sozialen und kulturellen Faktoren. Zudem rückt die Behinderung im kulturellen Modell als Problem in den Hintergrund, da es vielmehr um die kulturelle Beteiligung von Menschen mit Behinderungen geht. Die Inklusion von Menschen mit Behinderungen – sie also als festen Bestandteil einer vielfältigen Gesellschaft zu begreifen – steht daher in diesem Modell im Fokus (mehr dazu u.a. in [[docs/6. Literatur/index|Egen, 2020, S. 32-35; Waldschmidt, 2005, S. 24-27]]).
+Auf Grundlage einer Weiterentwicklung wurde in den 1990er Jahren das soziale Modell zu einem kulturell geprägten Modell erweitert. Dieses sieht Behinderung als abhängig von sozialen und kulturellen Faktoren. Zudem rückt die Behinderung im kulturellen Modell als Problem in den Hintergrund, da es vielmehr um die kulturelle Beteiligung von Menschen mit Behinderungen geht. Die Inklusion von Menschen mit Behinderungen – sie also als festen Bestandteil einer vielfältigen Gesellschaft zu begreifen – steht daher in diesem Modell im Fokus (mehr dazu u.a. in [Egen, 2020, S. 32-35; Waldschmidt, 2005, S. 24-27](../6-literatur/index.md)).
 
 ### Das bio-psycho-soziale Modell
 
