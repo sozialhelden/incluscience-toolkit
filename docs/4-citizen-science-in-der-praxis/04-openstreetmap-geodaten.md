@@ -1,10 +1,10 @@
 # Nachhaltige Integration von Geodaten in OpenStreetMap
 
-Ein zentraler Aspekt von Citizen Science-Projekten, die Geodaten erheben, ist die nachhaltige Nutzung der generierten Daten. Ein Beispiel aus dem Projekt *IncluScience* zeigt, wie durch die direkte Integration von erhobenen Daten in OpenStreetMap (OSM) nicht nur die Sichtbarkeit und Verfügbarkeit, sondern auch die globale Nutzbarkeit der Daten sichergestellt werden kann. OSM als eine der weltweit größten freien Geodatenbanken bietet die Möglichkeit, Daten langfristig zu speichern, zu teilen und weiterzuentwickeln.
-
 !!! tip "Tipp"
 
     Nutzen Sie OpenStreetMap für Citizen Science mit Geodaten!
+    
+Ein zentraler Aspekt von Citizen Science-Projekten, die Geodaten erheben, ist die nachhaltige Nutzung der generierten Daten. Ein Beispiel aus dem Projekt *IncluScience* zeigt, wie durch die direkte Integration von erhobenen Daten in OpenStreetMap (OSM) nicht nur die Sichtbarkeit und Verfügbarkeit, sondern auch die globale Nutzbarkeit der Daten sichergestellt werden kann. OSM als eine der weltweit größten freien Geodatenbanken bietet die Möglichkeit, Daten langfristig zu speichern, zu teilen und weiterzuentwickeln.
 
 ## Warum OpenStreetMap?
 
@@ -18,23 +18,23 @@ Ein zentraler Aspekt von Citizen Science-Projekten, die Geodaten erheben, ist di
 ## Schritte zur Integration von Daten in OSM
 
 1. **Vorbereitung der Daten**  
-   Überprüfen Sie, ob die erhobenen Daten in das bestehende OSM-Datenmodell passen. Wenn spezifische Informationen fehlen, die für das Projekt relevant sind, ist ein Proposal notwendig.  
-2. **Proposal-Erstellung**  
-   Beschreiben Sie die neuen Keys und Values, die Ihre Daten abbilden sollen. Ein klar formulierter Vorschlag mit nachvollziehbaren Anwendungsbeispielen erleichtert die Diskussion in der Community.  
+   Überprüfen Sie, ob die erhobenen Daten in das bestehende OSM-Datenmodell passen. Sie können [prototypisch eigene neue Tag-Kombinationen benutzen](https://wiki.openstreetmap.org/wiki/Any_tags_you_like), um das Datenmodell zu testen. Wenn sich spezifische Tags mit bestehenden überschneiden oder große Datenmengen erfasst werden sollen, ist üblicherweise ein Proposal notwendig.  
+2. **Proposal-Erstellung** (falls notwendig)
+   Beschreiben Sie die neuen Keys und Values, die Ihre Daten abbilden sollen. Ein klar formulierter Vorschlag mit nachvollziehbaren Anwendungsbeispielen erleichtert die Diskussion in der Community. In der Tagging-Mailing-Liste und im Forum können Sie über neue Ideen diskutieren und Vorschläge aus der Community einholen. Machen Sie der Community dabei die Bedarfe der Zielgruppen klar und formulieren Sie das zu lösende Problem klar und deutlich.
 3. **Community-Abstimmung**  
-   Veröffentlichen Sie das Proposal auf den OSM-Plattformen und beteiligen Sie sich aktiv an der Diskussion. Gegebenenfalls müssen Änderungen basierend auf dem Community-Feedback vorgenommen werden.  
+   Veröffentlichen Sie das Proposal auf den OSM-Plattformen und beteiligen Sie sich aktiv an der Diskussion. Gegebenenfalls müssen Änderungen basierend auf dem Community-Feedback vorgenommen werden.
 4. **Integration der Daten**  
-   Nach Annahme des Proposals können die Daten mit den neuen Keys und Values in OSM eingepflegt werden.
+   Sie können bereits vor Annahme eines Proposals Daten mit den neuen Keys und Values in OSM einpflegen. Wenn die Daten nachhaltig im Datensatz „überleben“ sollen, ist ein Proposal dennoch vorteilhaft.
 
 ### Warum OSM?
 
-Projekte, die Geodaten erheben, sollten prüfen, ob eine Integration der Daten in OSM sinnvoll ist. Dies sichert die nachhaltige Nutzung und ermöglicht anderen, die Daten zu nutzen oder weiterzuentwickeln.
+Projekte, die Geodaten erheben, sollten prüfen, ob eine Integration der Daten in OSM sinnvoll ist. Dies sichert die nachhaltige Nutzung und ermöglicht anderen, die Daten zu nutzen oder weiterzuentwickeln. Gleichzeitig werden Datensätze kompatibel zu einer großen Anzahl bestehender Analyse-Werkzeuge, mit denen die Daten statistisch erfasst, qualitativ verbessert und mit anderen Datensätzen (z.B. über Populationsdichten) verschnitten werden können.
 
 ### Erfolgsfaktoren
 
 * Klare und prägnante Proposals, die die Bedeutung der neuen Keys und Values erklären.  
 * Aktive Beteiligung an der Diskussion in der OSM-Community.  
-* Sicherstellung der Datenqualität vor dem Upload.
+* Sicherstellung der Datenqualität vor und nach dem Upload.
 
 !!! example "Beispiel"
 

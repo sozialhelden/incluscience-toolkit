@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/1-intro/04-disability-mainstreaming.md",
+                "file": "docs/4-citizen-science-in-der-praxis/04-openstreetmap-geodaten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04-disability-mainstreaming"
+              "title": "04-openstreetmap-geodaten"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,6 +172,7 @@
   },
   "active": "79dba0213e92c7d9",
   "lastOpenFiles": [
+    "docs/1-intro/04-disability-mainstreaming.md",
     "docs/6-literatur/index.md",
     "docs/4-citizen-science-in-der-praxis/03-openstreetmap-geodaten.md",
     "docs/4-citizen-science-in-der-praxis/04-openstreetmap-geodaten.md",
@@ -184,7 +184,6 @@
     "docs/1-intro/01-behinderung.md",
     "docs/2-partizipative-forschung-planen/02-partizipative-methoden.md",
     "docs/1-intro/index.md",
-    "docs/1-intro/04-disability-mainstreaming.md",
     "docs/1-intro/03-inklusive-citizen-science.md",
     "docs/1-intro/02-inklusion.md",
     "docs/1-intro",
