@@ -46,7 +46,7 @@ Die Gestaltung von Texten, etwa durch Schriftart, \-größe und Layout, ist esse
 
 Digitale Barrierefreiheit ist eine Grundvoraussetzung für inklusive Citizen Science. Standards wie die **Web Content Accessibility Guidelines (WCAG 2.1)** und die **Barrierefreie-Informationstechnik-Verordnung (BITV)** definieren klare Anforderungen, um Webseiten und Apps zugänglich zu gestalten.
 
-!!! tip "Tipp" Anforderungen an digitale Barrierefreiheit frühzeitig festlegen
+!!! tip "Anforderungen an digitale Barrierefreiheit frühzeitig festlegen"
 
     Stellen Sie sicher, dass die Anforderungen an digitale Barrierefreiheit bereits in der Planungsphase festgelegt werden. Eine beispielhafte Formulierung, die in Ausschreibungen für Agenturen verwendet werden kann:
 
