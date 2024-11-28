@@ -2,7 +2,6 @@
 
 ![IncluScience-Logo: Ein Erlenmeyer-Kolben, in dem sich zwei stilisierte Hände die Hand geben. Eine Hand ist eine Prothese.|80](images/logo-complex.svg)
 
-
 Citizen Scientists forschen.
 
 Diese einfache Feststellung fasst viele Diskurse, Kontroversen, unterschiedliche Begriffsverständnisse und langjährige Forschungsergebnisse zusammen. Es sind nicht nur berufliche Wissenschaftler\*innen, die forschen, sondern unsere Gesellschaft vertraut auf wichtige Forschungsergebnisse von Bürger\*innen, Betroffenen und Engagierten. Das sind oft nicht beruflich oder nur nebenberuflich und meist nicht bezahlte Forschende mit oft sehr tief greifender Expertise. Diese Menschen repräsentieren die Themen, die sie bewegen, und sind ein Spiegel unserer Gesellschaft. Dazu gehört auch, dass Menschen mit Behinderungen mitforschen. Darum haben wir uns entschieden, in diesem Dokument bewusst alle Menschen anzusprechen. Das wollen wir unter anderem mit der Formulierung „Citizen Scientists” deutlich machen.
@@ -17,7 +16,7 @@ Der Inhalt des Citizen-Science-Instrumentenkoffers umfasst die in diesem Projekt
 
 Resultat ist schließlich das hier vorliegende Dokument, das hilfreiche Empfehlungen für folgende Themen bietet:
 
-* **[[1. Einführung und Begriffsklärungen]]:** Einführung grundlegender Begriffe und Konzepte. Die Themen Behinderung, Inklusion, inklusive Citizen Science sowie Disability Mainstreaming werden dabei berücksichtigt.
+* **[[00-index]]:** Einführung grundlegender Begriffe und Konzepte. Die Themen Behinderung, Inklusion, inklusive Citizen Science sowie Disability Mainstreaming werden dabei berücksichtigt.
 * **Kapitel 2**: Praxisnahe Planung der Partizipation von Menschen mit Behinderungen, einschließlich der Beteiligung an der Forschungsfrage sowie der Frage nach Assistenz und Aufwandsentschädigung.  
 * **Kapitel 3**: Gestaltung barrierearmer Kommunikationswege. Hier geht es um die Ansprache von Menschen mit Behinderungen als Expert\*innen und die Gestaltung inklusiver Kommunikation.  
 * **Kapitel 4**: Citizen Science in der Praxis. Dieses Kapitel umfasst Themen wie die Planung und Durchführung von Veranstaltungen, iterative Vorgehensweisen und inklusive Ansätze.

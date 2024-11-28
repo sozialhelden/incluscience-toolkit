@@ -48,7 +48,10 @@ theme:
   # Default values, taken from mkdocs_theme.yml
   language: de
   features:
-    # - tabs
+    - navigation.sections
+    - navigation.path
+    - navigation.indexes
+    - toc.follow
     - instant
     - content.code.annotate
 

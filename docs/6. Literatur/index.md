@@ -1,4 +1,4 @@
-# Literatur 
+# Literatur
 
 Antener, Gabriela; Parpan-Blaser, Anne (2024): Leichte Sprache und Empowerment. In: Antener, Gabriela; Parpan-Blaser, Anne; Girard-Groeber, Simone; Lichtenauer, Annette (Hrsg.): Leichte Sprache. Grundlagen, Diskussionen und Praxisfelder. Stuttgart: W. Kohlhammer, S. 229-237.
 

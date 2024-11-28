@@ -1,1 +1,3 @@
+# Einführung und Begriffsklärungen
+
 In diesem Teil werden alle für den Instrumentenkoffer notwendigen Grundlagenkenntnisse vermittelt. Das heißt, dass wir uns nachfolgend mit zentralen Begriffen, Konzepten, Modellen und Theorien auseinandersetzen. Dazu werden diese in ihrer Verwendung in verschiedenen Kontexten und Disziplinen diskutiert sowie unterschiedliche Definitions- und Operationalisierungsmöglichkeiten gegenübergestellt. Die folgenden Unterkapitel werden daher die unterschiedlichen Positionen von Behinderung (Kap. 1.1), Inklusion (Kap. 1.2), Disability Mainstreaming (Kap. 1.3) und inklusiver Citizen Science (Kap. 1.4) vorstellen. Wir schließen jedes Unterkapitel mit der für den Instrumentenkoffer gültigen Arbeitsdefinition ab.
