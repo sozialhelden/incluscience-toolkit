@@ -11,14 +11,10 @@
             "id": "18565ce670174d9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/1-intro/03-inklusive-citizen-science.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "03-inklusive-citizen-science"
+              "title": "New tab"
             }
           }
         ]
@@ -73,8 +69,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,42 +166,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18565ce670174d9d",
+  "active": "57b119498bb2e762",
   "lastOpenFiles": [
+    "docs/1-intro/index.md",
     "docs/1-intro/04-disability-mainstreaming.md",
     "docs/1-intro/03-inklusive-citizen-science.md",
-    "docs/2-partizipative-forschung-planen/03-hilfs-und-assistenzmittel.md",
-    "docs/0-index.md",
-    "docs/2-partizipative-forschung-planen/05-aufwandsentschädigung.md",
-    "docs/2-partizipative-forschung-planen/05-aufwandsentschaedigung.md",
-    "docs/3-kommunikation/02-tools-und-quellen-fuer-leichte-sprache.md",
-    "docs/3-kommunikation/01-leichte-sprache.md",
-    "docs/4-citizen-science-in-der-praxis/02-partizipativ-vorgehen.md",
-    "docs/4-citizen-science-in-der-praxis/01-veranstaltungen-planen.md",
-    "docs/4-citizen-science-in-der-praxis/03-openstreetmap-geodaten.md",
-    "docs/6-literatur/index.md",
-    "docs/6-literatur",
-    "docs/5-fazit/index.md",
-    "docs/5-fazit",
-    "docs/05-fazit/index.md",
-    "docs/05-fazit",
-    "docs/06-literatur/index.md",
-    "docs/06-literatur",
-    "Dockerfile",
-    "docs/2-partizipative-forschung-planen/02-partizipative-methoden.md",
-    "docs/2-partizipative-forschung-planen/01-menschen-mit-behinderungen-als-co-forschende.md",
     "docs/1-intro/02-inklusion.md",
     "docs/1-intro/01-behinderung.md",
-    "docs/4-citizen-science-in-der-praxis/4.3 Nachhaltige Integration von Geodaten in OpenStreetMap.md",
-    "docs/4-citizen-science-in-der-praxis/4.2 Partizipatives Vorgehen in der Umsetzung eines Citizen Science-Projekts am Beispiel von IncluScience.md",
-    "docs/4-citizen-science-in-der-praxis/4.1 Planung und Durchführung von Veranstaltungen.md",
-    "docs/3-kommunikation/3.2 Tools und weiterführende Quellen zum Thema einfache und Leichte Sprache.md",
-    "docs/3-kommunikation/3.1 Leichte Sprache.md",
-    "docs/2-partizipative-forschung-planen/04-beratungs-und-informationsangebote.md",
-    "docs/1-intro/index.md",
     "docs/1-intro",
+    "docs/2-partizipative-forschung-planen/index.md",
+    "docs/2-partizipative-forschung-planen/05-aufwandsentschaedigung.md",
+    "docs/2-partizipative-forschung-planen/04-beratungs-und-informationsangebote.md",
+    "docs/2-partizipative-forschung-planen/03-hilfs-und-assistenzmittel.md",
+    "docs/2-partizipative-forschung-planen/02-partizipative-methoden.md",
+    "docs/2-partizipative-forschung-planen/01-menschen-mit-behinderungen-als-co-forschende.md",
+    "docs/2-partizipative-forschung-planen",
+    "docs/k-2-partizipative-forschung-planen/index.md",
+    "docs/k-2-partizipative-forschung-planen/05-aufwandsentschaedigung.md",
+    "docs/k-2-partizipative-forschung-planen/04-beratungs-und-informationsangebote.md",
+    "docs/k-2-partizipative-forschung-planen/03-hilfs-und-assistenzmittel.md",
+    "docs/k-2-partizipative-forschung-planen/02-partizipative-methoden.md",
+    "docs/k-2-partizipative-forschung-planen/01-menschen-mit-behinderungen-als-co-forschende.md",
+    "docs/k-2-partizipative-forschung-planen",
+    "docs/k-1-intro/index.md",
+    "docs/k-1-intro/04-disability-mainstreaming.md",
+    "docs/k-1-intro/03-inklusive-citizen-science.md",
+    "docs/k-1-intro/02-inklusion.md",
+    "docs/k-1-intro/01-behinderung.md",
+    "docs/k-1-intro",
+    "docs/index.md",
+    "docs/0-index.md",
+    "docs/2-partizipative-forschung-planen/05-aufwandsentschädigung.md",
+    "docs/3-kommunikation/02-tools-und-quellen-fuer-leichte-sprache.md",
+    "docs/6-literatur",
+    "docs/5-fazit",
+    "docs/05-fazit",
+    "docs/06-literatur",
+    "Dockerfile",
     "docs/1-einfuehrung",
-    "docs/CNAME",
     "docs/images/share-pic.png",
     "docs/images/sozialhelden-icon.svg",
     "docs/images/sozialheld-innen.svg",
@@ -216,8 +213,6 @@
     "docs/images/IncluScience Share Pic.png",
     "docs/images/IncluScience Share Pic 1.png",
     "docs/assets/favicon.png",
-    "docs/6. Literatur",
-    "docs/5. Fazit und Forderungen",
     "site/assets/images/favicon.png",
     "Einführung und Begriffsklärungen/Untitled.canvas"
   ]
