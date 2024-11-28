@@ -37,25 +37,27 @@ Für die Beteiligung von Akteur\*innen, insbesondere für Menschen mit Behinderu
 
 Insgesamt zeigt sich, dass es zahlreiche partizipative Ansätze gibt. Diese Auflistung kann nur einen Überblick bieten und erhebt keinen Anspruch auf Vollständigkeit. Weitere Methoden und Ansätze finden sich in spezialisierter Literatur.
 
-## Methodenliteratur zu Barcamps
+## Methodenliteratur
+
+### „Barcamp“
 
 * planung\&analyse. (2018). **Online Special Innovation: Wie man Barcamps in der Marktforschung nutzen kann.** Verfügbar unter: [https://www.horizont.net/planung-analyse/nachrichten/Online-Special-Innovation-Wie-man-Barcamps-in-der-Marktforschung-nutzen-kann-165167](https://www.horizont.net/planung-analyse/nachrichten/Online-Special-Innovation-Wie-man-Barcamps-in-der-Marktforschung-nutzen-kann-165167) (07.11.2024).  
 * Bohinc, T. (2019). **Barcamp.** Verfügbar unter: [https://www.projektmagazin.de/methoden/barcamp](https://www.projektmagazin.de/methoden/barcamp) (07.11.2024).  
 * Aktionsbündnis Teilhabeforschung. Arbeitsgruppe partizipative Forschung und Forschungsmethoden. **Partizipative Forschung – 10 Methoden.** (S. 15–17). Verfügbar unter: [https://www.teilhabeforschung.org/fileadmin/user\_upload/Partizipative\_Forschungsmethoden\_AG\_Partizipative\_Forschung\_und\_Forschungsmethoden.pdf](https://www.teilhabeforschung.org/fileadmin/user_upload/Partizipative_Forschungsmethoden_AG_Partizipative_Forschung_und_Forschungsmethoden.pdf).
 
-### Methodenliteratur zu Community Mapping
+### „Community Mapping“
 
 * Schwedes, O.; Hausigke, S.; Kruse, C. (2021). **Methodenbericht Community Mapping.**  
 * Gangarova, T.; von Unger, H. (2020). **Community Mapping als Methode: Erfahrungen aus der partizipativen Zusammenarbeit mit Migrant\*innen.** In: Hartung, Martina; Wihofszky, Petra; Wright, Michael T. (Hrsg.): **Partizipative Forschung: Ein Forschungsansatz für Gesundheit und seine Methoden.** Wiesbaden: Springer VS.
 
-### Methodenliteratur zu Design Thinking
+### „Design Thinking“
 
 * Kumar, K. (2022). **Design Thinking.** CRC Press.  
 * den Dekker, T. (2020). **Design Thinking.** Routledge.  
 * Pressman, A. (2018). **Design Thinking.** Routledge.  
 * Gehm, J. (2022). **Design Thinking etablieren. So verankern Sie Design Thinking im Unternehmen – bewährtes Vorgehensmodell, Erfahrungen, Fallbeispiele.** Tübingen: Springer Gabler.
 
-### Methodenliteratur zu Photovoice
+### „Photovoice“
 
 * Latz, Amanda O. (2017). **Photovoice Research in Education and Beyond.** Routledge.  
 * Moya, Eva M. (2019). **Photovoice: Participation and Empowerment in Research.**  
@@ -63,14 +65,14 @@ Insgesamt zeigt sich, dass es zahlreiche partizipative Ansätze gibt. Diese Aufl
 * Aktionsbündnis Teilhabeforschung. Arbeitsgruppe partizipative Forschung und Forschungsmethoden. **Partizipative Forschung – 10 Methoden.** (S. 9–10). Verfügbar unter: [https://www.teilhabeforschung.org/fileadmin/user\_upload/Partizipative\_Forschungsmethoden\_AG\_Partizipative\_Forschung\_und\_Forschungsmethoden.pdf](https://www.teilhabeforschung.org/fileadmin/user_upload/Partizipative_Forschungsmethoden_AG_Partizipative_Forschung_und_Forschungsmethoden.pdf).  
 * PartKommPLus (GESUND\!). **Arbeitshilfen für PhotoVoice.** Verfügbar unter: [https://www.partkommplus.de/teilprojekte/gesund/arbeitshilfen-fuer-photovoice/](https://www.partkommplus.de/teilprojekte/gesund/arbeitshilfen-fuer-photovoice/) (07.11.2024).
 
-### Methodenliteratur zu World Café
+### „World Café“
 
 * Isaacs, D.; Brown, J. (2007). **Das World Café. Kreative Zukunftsgestaltung in Organisationen und Gesellschaft.** Heidelberg.  
 * Aktionsbündnis Teilhabeforschung. Arbeitsgruppe partizipative Forschung und Forschungsmethoden. **Partizipative Forschung – 10 Methoden.** (S. 13–14). Verfügbar unter: [https://www.teilhabeforschung.org/fileadmin/user\_upload/Partizipative\_Forschungsmethoden\_AG\_Partizipative\_Forschung\_und\_Forschungsmethoden.pdf](https://www.teilhabeforschung.org/fileadmin/user_upload/Partizipative_Forschungsmethoden_AG_Partizipative_Forschung_und_Forschungsmethoden.pdf).  
 * Grolman, F. **World Café – Moderation von Großgruppenveranstaltungen.** Verfügbar unter: [https://organisationsberatung.net/world-cafe-grossgruppen-methode/](https://organisationsberatung.net/world-cafe-grossgruppen-methode/) (07.11.2024).  
 * Grolman, F. **Methode World Café – die häufigsten Praxisfehler.** Verfügbar unter: [https://organisationsberatung.net/methode-world-cafe-haufigste-praxisfehler/](https://organisationsberatung.net/methode-world-cafe-haufigste-praxisfehler/) (07.11.2024).
 
-### Methodenliteratur zur Zukunftswerkstatt
+### „Zukunftswerkstatt“
 
 * Jungk, R.; Müllert, N. (1989). **Zukunftswerkstätten. Mit Phantasie gegen Routine und Resignation.** München.  
 * Aktionsbündnis Teilhabeforschung. Arbeitsgruppe partizipative Forschung und Forschungsmethoden. **Partizipative Forschung – 10 Methoden.** (S. 18–20). Verfügbar unter: [https://www.teilhabeforschung.org/fileadmin/user\_upload/Partizipative\_Forschungsmethoden\_AG\_Partizipative\_Forschung\_und\_Forschungsmethoden.pdf](https://www.teilhabeforschung.org/fileadmin/user_upload/Partizipative_Forschungsmethoden_AG_Partizipative_Forschung_und_Forschungsmethoden.pdf).

@@ -11,10 +11,14 @@
             "id": "18565ce670174d9d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/2-partizipative-forschung-planen/02-partizipative-methoden.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "02-partizipative-methoden"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "6-li",
+                "query": "Methodenlit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,7 +171,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57b119498bb2e762",
+  "active": "18565ce670174d9d",
   "lastOpenFiles": [
     "docs/1-intro/index.md",
     "docs/1-intro/04-disability-mainstreaming.md",
