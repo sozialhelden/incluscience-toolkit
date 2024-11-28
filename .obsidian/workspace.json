@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2. Partizipative Forschung planen/2.4 Beratungs- und Informationsangebote.md",
+                "file": "docs/2. Partizipative Forschung planen/2.5 Aufwandsentschädigung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.4 Beratungs- und Informationsangebote"
+              "title": "2.5 Aufwandsentschädigung"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Frühzeitige Klärung der Rahmenbedingungen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,8 +171,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18565ce670174d9d",
+  "active": "ddb733f813b93b59",
   "lastOpenFiles": [
+    "docs/2. Partizipative Forschung planen/2.4 Beratungs- und Informationsangebote.md",
     "docs/1. Einführung und Begriffsklärungen/1.3 Inklusive Citizen Science.md",
     "docs/6. Literatur/index.md",
     "docs/1-einführung-und-begriffsklärungen-kapitel-1.md",
@@ -179,7 +181,6 @@
     "docs/1. Einführung und Begriffsklärungen/docs-6-literatur-index-egen-2020-s-32-35-waldschmidt-2005-s-24-27.md",
     "docs/2. Partizipative Forschung planen/2.1 Menschen mit Behinderungen als Co-Forschende.md",
     "docs/1. Einführung und Begriffsklärungen/1.1 Behinderung.md",
-    "docs/2. Partizipative Forschung planen/2.4 Beratungs- und Informationsangebote.md",
     "docs/2. Partizipative Forschung planen/2.3 Hilfs- und Assistenzmittel.md",
     "docs/1. Einführung und Begriffsklärungen/1.4 Disability Mainstreaming.md",
     "docs/1. Einführung und Begriffsklärungen/1.2 Inklusion.md",
