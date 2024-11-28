@@ -6,7 +6,7 @@ Die Handreichung möchte verdeutlichen, dass die Beteiligung von Menschen mit Be
 
 Gleichzeitig erkennen wir an, dass trotz aller Bemühungen Hürden bestehen bleiben können, die nicht immer vollständig überwunden werden können. Deshalb stellen wir eine Reihe von Forderungen auf, um die Rahmenbedingungen für inklusives Forschen zu verbessern.
 
-## **Forderungen für inklusive Wissenschaft**
+## Forderungen für inklusive Wissenschaft
 
 1. **Umdenken im Fördersystem**  
    Inklusion muss im wissenschaftlichen Fördersystem als grundlegende Voraussetzung verstanden werden, nicht als zusätzlicher „Bonus“. Anfallende Kosten für barrierefreie Maßnahmen dürfen nicht zulasten des Projektbudgets gehen. Vielmehr sollte es Anreize geben, inklusiv zu forschen.  
@@ -21,7 +21,6 @@ Gleichzeitig erkennen wir an, dass trotz aller Bemühungen Hürden bestehen blei
    Förderprojekte, die sich mit ortsbezogenen Daten beschäftigen, sollten verpflichtend eine inklusive Datenerhebung umsetzen. Dies stellt sicher, dass die Ergebnisse zugänglich und für die Allgemeinheit nutzbar sind.  
    * Die Anbindung an bestehende Open Data-Ökosysteme sollte zur Voraussetzung gemacht werden, um eine langfristige Nutzung der Daten zu gewährleisten und ein „Verstauben in der Schublade“ zu vermeiden.
 
-## **Abschließende Gedanken**
+## Abschließende Gedanken
 
 Inklusion ist kein Selbstläufer, sondern erfordert gezielte Maßnahmen, Umdenken und Engagement. Mit der richtigen Unterstützung und den hier beschriebenen Ansätzen kann die Partizipation von Menschen mit Behinderungen nicht nur Realität werden, sondern auch die Qualität von Citizen Science-Projekten erheblich steigern. Es liegt an den Förderinstitutionen, Wissenschaftler\*innen und der Gesellschaft, die notwendigen Rahmenbedingungen zu schaffen und Inklusion zu einem festen Bestandteil der Forschung zu machen.
-

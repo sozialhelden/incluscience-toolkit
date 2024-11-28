@@ -16,37 +16,37 @@ Mehr zur Aktionsforschung kann dabei hier nachgelesen werden:
 * McNiff, J. (2013). **Action Research.** Routledge.  
 * Wöhrer, V. (2017). **Partizipative Aktionsforschung mit Kindern und Jugendlichen.** Wiesbaden: Springer VS.
 
-#### **Aus der Tradition der Aktionsforschung entstanden vielfältige weitere Ansätze:**
+#### Aus der Tradition der Aktionsforschung entstanden vielfältige weitere Ansätze:
 
-### **Participatory Action Research**
+### Participatory Action Research
 
 Fokus auf die Beteiligung von Akteur*innen aus verschiedenen Kontexten, während die Forscher*innen und Wissenschaftler\*innen vielmehr eine Beratungsfunktion innehaben.
 
-### **Participatory Research Practices**
+### Participatory Research Practices
 
 Insbesondere marginalisierte Akteursgruppen werden hier an Forschungsprozessen beteiligt, um Emanzipation oder soziale Gerechtigkeit als übergeordnete Ziele zu erreichen.
 
-### **Community-Based Participatory Research**
+### Community-Based Participatory Research
 
 Diese Form basiert auf dem Einbezug von Communities in allen Phasen des Forschungsprozesses, wobei Empowerment und Kompetenzentwicklung an zentraler Stelle stehen.
 
 ---
 
-### **Weiterführende Literatur:**
+### Weiterführende Literatur:
 
-#### **Methodenliteratur zu Participatory Action Research:**
+#### Methodenliteratur zu Participatory Action Research:
 
 * Chevalier, Jacques M. (2019). **Participatory Action Research.** Routledge.  
 * Bradbury, H. (2015). **The SAGE Handbook of Action Research (3. ed.).** London: Sage.  
 * Loewenson, R.; Laurell, A. C.; Hogstedt, C.; D’Amruoso, L.; Shroff, Z. (2014). **Participatory Action Research in Health Systems. A Methods Reader.** Hrsg. von EQUINET. [Online verfügbar](https://equinetafrica.org/sites/default/files/uploads/documents/PAR_Methods_Reader2014_for_web.pdf)  
 * Wilson, E.; Kenny, A.; Dickson-Swift, V. (2018). **Ethical Challenges in Community-Based Participatory Research: A Scoping Review.** Qualitative Health Research, 28(2), S. 189–199. DOI: 10.1177/1049732317690721
 
-#### **Methodenliteratur zu Participatory Research Practices:**
+#### Methodenliteratur zu Participatory Research Practices:
 
 * Nared, J.; Bole, D. (2020). **Participatory Research and Planning in Practice.** Springer.  
 * Vaughn, L. M.; Jacquez, F. (2020). **Participatory Research Methods – Choice Points in the Research Process.** Journal of Participatory Research Methods, 1(1). [DOI](https://doi.org/10.35844/001c.13244)
 
-#### **Methodenliteratur zu Community-Based Participatory Research:**
+#### Methodenliteratur zu Community-Based Participatory Research:
 
 * Glaß, K. (2021). **Lernergebnisse aus transferorientierten Lehrprojekten.** Eine Untersuchung des Community-based-Research-Ansatzes.  
 * Durham Community Research Team (2011). **Community-based Participatory Research: Ethical Challenges.** [Online verfügbar](https://ahrc.ukri.org/documents/project-reports-and-reviews/connected-communities/community-based-participatory-research-ethical-challenges/)  
