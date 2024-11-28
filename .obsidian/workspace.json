@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/6. Literatur/index.md",
+                "file": "docs/2. Partizipative Forschung planen/2.4 Beratungs- und Informationsangebote.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2.4 Beratungs- und Informationsangebote"
             }
           }
         ],
@@ -243,6 +243,15 @@
   },
   "active": "a2f967ffec6c081b",
   "lastOpenFiles": [
+    "docs/2. Partizipative Forschung planen/2.3 Hilfs- und Assistenzmittel.md",
+    "docs/2. Partizipative Forschung planen/2.2 Partizipative Methoden.md",
+    "docs/2. Partizipative Forschung planen/2.1 Menschen mit Behinderungen als Co-Forschende.md",
+    "docs/1. Einführung und Begriffsklärungen/1.4 Disability Mainstreaming.md",
+    "docs/1. Einführung und Begriffsklärungen/1.3 Inklusive Citizen Science.md",
+    "docs/1. Einführung und Begriffsklärungen/1.2 Inklusion.md",
+    "docs/1. Einführung und Begriffsklärungen/1.1 Behinderung.md",
+    "docs/1. Einführung und Begriffsklärungen/index.md",
+    "docs/6. Literatur/index.md",
     "docs/CNAME",
     "docs/index.md",
     "docs/images/share-pic.png",
@@ -255,14 +264,10 @@
     "docs/images/IncluScience Share Pic.png",
     "docs/images/IncluScience Share Pic 1.png",
     "docs/assets/favicon.png",
-    "docs/6. Literatur/index.md",
     "docs/4. Citizen Science in der Praxis/4.2 Partizipatives Vorgehen in der Umsetzung eines Citizen Science-Projekts am Beispiel von IncluScience.md",
     "docs/4. Citizen Science in der Praxis/4.3 Nachhaltige Integration von Geodaten in OpenStreetMap.md",
     "docs/2. Partizipative Forschung planen/2.5 Aufwandsentschädigung.md",
     "docs/2. Partizipative Forschung planen/2.4 Beratungs- und Informationsangebote.md",
-    "docs/2. Partizipative Forschung planen/2.3 Hilfs- und Assistenzmittel.md",
-    "docs/2. Partizipative Forschung planen/2.2 Partizipative Methoden.md",
-    "docs/2. Partizipative Forschung planen/2.1 Menschen mit Behinderungen als Co-Forschende.md",
     "docs/6. Literatur",
     "docs/5. Fazit und Forderungen/index.md",
     "docs/5. Fazit und Forderungen",
@@ -272,12 +277,7 @@
     "docs/06-Literatur",
     "docs/05-Fazit und Forderungen/05-Fazit und Forderungen.md",
     "docs/05-Fazit und Forderungen",
-    "docs/1. Einführung und Begriffsklärungen/1.3 Inklusive Citizen Science.md",
-    "docs/1. Einführung und Begriffsklärungen/1.4 Disability Mainstreaming.md",
     "docs/1. Einführung und Begriffsklärungen/1.33 Inklusive Citizen Science.md",
-    "docs/1. Einführung und Begriffsklärungen/1.2 Inklusion.md",
-    "docs/1. Einführung und Begriffsklärungen/1.1 Behinderung.md",
-    "docs/1. Einführung und Begriffsklärungen/index.md",
     "docs/1. Einführung und Begriffsklärungen/04-Disability Mainstreaming.md",
     "docs/1. Einführung und Begriffsklärungen/03-Inklusive Citizen Science.md",
     "docs/1. Einführung und Begriffsklärungen/02-Inklusion.md",
@@ -287,7 +287,6 @@
     "docs/3. Kommunikation",
     "docs/2. Partizipative Forschung planen",
     "docs/1. Einführung",
-    "docs/Einführung",
     "site/assets/images/favicon.png",
     "Einführung und Begriffsklärungen/Untitled.canvas"
   ]
