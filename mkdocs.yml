@@ -48,7 +48,7 @@ theme:
   # Default values, taken from mkdocs_theme.yml
   language: de
   features:
-    - navigation.sections
+    # - navigation.sections
     - navigation.path
     - navigation.indexes
     - toc.follow
