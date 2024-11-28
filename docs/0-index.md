@@ -16,10 +16,10 @@ Der Inhalt des Citizen-Science-Instrumentenkoffers umfasst die in diesem Projekt
 
 Resultat ist schließlich das hier vorliegende Dokument, das hilfreiche Empfehlungen für folgende Themen bietet:
 
-* [Kapitel 1](./1. Einführung und Begriffsklärungen): Einführung grundlegender Begriffe und Konzepte. Die Themen Behinderung, Inklusion, inklusive Citizen Science sowie Disability Mainstreaming werden dabei berücksichtigt.
-* [Kapitel 2](./2. Partizipative Forschung planen): Praxisnahe Planung der Partizipation von Menschen mit Behinderungen, einschließlich der Beteiligung an der Forschungsfrage sowie der Frage nach Assistenz und Aufwandsentschädigung.  
-* [Kapitel 3](./3. Kommunikation): Gestaltung barrierearmer Kommunikationswege. Hier geht es um die Ansprache von Menschen mit Behinderungen als Expert\*innen und die Gestaltung inklusiver Kommunikation.  
-* [Kapitel 4](./4. Citizen Science in der Praxis): Citizen Science in der Praxis. Dieses Kapitel umfasst Themen wie die Planung und Durchführung von Veranstaltungen, iterative Vorgehensweisen und inklusive Ansätze.
+* [Kapitel 1](./1-intro/index.md): Einführung grundlegender Begriffe und Konzepte. Die Themen Behinderung, Inklusion, inklusive Citizen Science sowie Disability Mainstreaming werden dabei berücksichtigt.
+* [Kapitel 2](./2-partizipative-forschung-planen/index.md): Praxisnahe Planung der Partizipation von Menschen mit Behinderungen, einschließlich der Beteiligung an der Forschungsfrage sowie der Frage nach Assistenz und Aufwandsentschädigung.  
+* [Kapitel 3](./3-kommunikation/index.md): Gestaltung barrierearmer Kommunikationswege. Hier geht es um die Ansprache von Menschen mit Behinderungen als Expert\*innen und die Gestaltung inklusiver Kommunikation.  
+* [Kapitel 4](./4-citizen-science-in-der-praxis/index.md): Citizen Science in der Praxis. Dieses Kapitel umfasst Themen wie die Planung und Durchführung von Veranstaltungen, iterative Vorgehensweisen und inklusive Ansätze.
 
 Alle (Teil-)Kapitel enden jeweils mit konkreten Gestaltungsempfehlungen sowie – wenn notwendig – Forderungslisten für inklusives Vorgehen.
 

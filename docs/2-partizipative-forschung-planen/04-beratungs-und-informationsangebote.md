@@ -1,3 +1,5 @@
+# Beratungs- und Informationsangebote
+
 In diesem Kapitel werden Beratungs- und Informationsangebote vorgestellt, die weiterführende Tools und Hilfestellungen zu den Themen Barrierefreiheit und Partizipation bieten. Während Anwendungen für die praktische Umsetzung partizipativer Forschung im vorherigen Kapitel aufgeführt wurden, konzentriert sich dieses Kapitel auf Ressourcen, die tiefergehendes Wissen, methodische Unterstützung und Vernetzungsmöglichkeiten bereitstellen.
 
 ### Toolsammlung der Teilhabe 4.0

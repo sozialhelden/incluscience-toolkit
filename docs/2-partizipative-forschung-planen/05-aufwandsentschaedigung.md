@@ -1,6 +1,8 @@
+# Aufwandsentschädigung
+
 In vielen Citizen-Science-Projekten engagieren sich Menschen ehrenamtlich, um wissenschaftliche Erkenntnisse zu fördern und gesellschaftlich relevante Beiträge zu leisten. Doch es sollte nicht als selbstverständlich betrachtet werden, dass alle Beteiligten ihre Zeit und Energie unentgeltlich zur Verfügung stellen. Dies gilt insbesondere für Menschen, die bereits mit besonderen Herausforderungen konfrontiert sind, wie z. B. Menschen mit Behinderungen.
 
-### Bedeutung der Aufwandsentschädigung
+## Bedeutung der Aufwandsentschädigung
 
 Menschen mit Behinderungen engagieren sich oft überdurchschnittlich häufig ehrenamtlich. Dennoch kann nicht davon ausgegangen werden, dass alle in der Lage sind, ohne eine Form der Entschädigung an Citizen-Science-Projekten mitzuwirken. Die Teilnahme erfordert häufig den Einsatz von Zeit und persönlichen Ressourcen. Eine fehlende Entschädigung stellt für viele eine Barriere dar, die ihre Mitwirkung verhindert.
 
@@ -13,7 +15,7 @@ Menschen mit Behinderungen engagieren sich oft überdurchschnittlich häufig ehr
 
     Solche Entschädigungen sind nicht nur ein Zeichen der Wertschätzung, sondern erhöhen auch die Zugänglichkeit des Projekts für Menschen, die andernfalls nicht teilnehmen könnten.
 
-### Sozialleistungen und Aufwandsentschädigungen
+## Sozialleistungen und Aufwandsentschädigungen
 
 Für Menschen, die auf Sozialleistungen angewiesen sind, können Aufwandsentschädigungen problematisch sein, da diese unter Umständen auf die Leistungen angerechnet werden könnten. Eine mögliche Lösung bietet die **Ehrenamtspauschale**, die unter bestimmten Bedingungen nicht auf Sozialleistungen angerechnet wird, wenn z. B. ein Verein als Organisator eingebunden ist.
 

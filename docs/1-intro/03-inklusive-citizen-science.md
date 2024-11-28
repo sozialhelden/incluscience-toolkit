@@ -1,4 +1,4 @@
-# 1.3 Inklusive Citizen Science
+# Inklusive Citizen Science
 
 Das wesentliche Merkmal von Citizen Science ist der Einbezug von Bürger\*innen in die Wissenschaft und Forschung. Dieser sollte dabei grundsätzlich partizipativ und mit Möglichkeiten der Mitbestimmung erfolgen. Doch oftmals stellt sich genau an dieser Stelle die Frage, inwiefern dies überhaupt gewährleistet wird und die Rolle von Bürgerinnen eher als Datenlieferantin denn als Mitforschende angesehen wird. Dem widmet sich schließlich die sogenannte „inklusive Citizen Science“, die die Partizipation und Teilhabe aller Bürger\*innen in Wissenschaft und Forschung fokussiert.
 
@@ -9,4 +9,4 @@ Inklusive Citizen Science hat also das Potenzial, alle Personengruppen, ungeacht
 * **Explorative Recherche zu Ansätzen für die Inklusion von Menschen mit Behinderungen in Citizen-Science-Projekten** (Köster, 2022\)
 * **Weißbuch Citizen Science Strategie 2030 für Deutschland** (Bonn et al., 2021\)
 
--> Zum [Literaturverzeichnis](../6. Literatur/index.md)
+-> Zum [Literaturverzeichnis](../6-literatur/index.md)

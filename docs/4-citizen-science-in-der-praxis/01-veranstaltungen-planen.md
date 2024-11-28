@@ -1,3 +1,5 @@
+# Planung und Durchführung von Veranstaltungen
+
 Die Beteiligung von Menschen mit Behinderungen an Veranstaltungen kann auf unterschiedlichen Wegen erfolgen. Im Projekt **IncluScience** wurden verschiedene Ansätze erprobt, die exemplarisch vorgestellt werden.
 
 ### (Externe) Stakeholder als Multiplikator\*innen

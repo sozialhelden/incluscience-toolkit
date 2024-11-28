@@ -1,3 +1,5 @@
+# Tools und weiterführende Quellen zum Thema einfache und Leichte Sprache
+
 Hier finden Sie eine umfassende Liste von Tools, Plattformen und Quellen, die Informationen, Schulungen oder praktische Unterstützung zu Leichter und Einfacher Sprache bieten. Diese Ressourcen sind nützlich für die Erstellung barrierefreier Inhalte und deren Anwendung in Projekten, Prozessen und Kommunikation.
 
 ### Regelwerke und Leitfäden

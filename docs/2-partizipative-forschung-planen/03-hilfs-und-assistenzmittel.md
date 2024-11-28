@@ -1,3 +1,5 @@
+# Hilfs- und Assistenzmittel
+
 In diesem Kapitel werden Hilfs- und Assistenzmittel aufgeführt, die die Teilhabe von Menschen mit Behinderungen in der Forschung unterstützen. Diese wurden aus verschiedenen Toolsammlungen zur partizipativen Forschung gefiltert. Solche Hilfsmittel und Tools können sowohl die Erfahrung der Teilnehmer\*innen und Mitforschenden als auch die Arbeit der Referent\*innen und die Projektplanung erheblich bereichern.
 
 !!! tip "Frühe Planung und Budgetierung"

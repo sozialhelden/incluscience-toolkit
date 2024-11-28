@@ -1,3 +1,5 @@
+# Menschen mit Behinderungen als Co-Forschende
+
 Ein möglichst hoher Partizipationsgrad von Forschung bedeutet nicht nur den Einbezug von Co-Forschenden oder Citizen Scientists als Datenlieferant\*innen, sondern vielmehr die aktive Mitbestimmung und Mitgestaltung von Forschungszielen und Forschungsinhalten sowie die Umsetzung der Forschung. Dabei fällt die Beteiligung an Forschung in einer nicht barrierefreien Umgebung vielen Menschen schwer.
 
 Dies kann aus ganz unterschiedlichen Gründen der Fall sein:

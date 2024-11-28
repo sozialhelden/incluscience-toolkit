@@ -1,4 +1,4 @@
-# 5. Fazit und Forderungen 
+# Fazit und Forderungen 
 
 Der **Instrumentenkoffer** bietet eine umfassende Sammlung von Empfehlungen für die Gestaltung inklusiver Citizen Science-Projekte. Diese umfassen sowohl theoretische Grundlagen als auch praxisorientierte Handlungsanleitungen. Der Schwerpunkt liegt auf der praktischen Umsetzbarkeit, um deutlich zu machen, dass die Einbindung von Menschen mit Behinderungen in Forschungsprojekte nicht nur notwendig, sondern auch realisierbar ist. Mit gezielten Ansätzen, wie der Bereitstellung von Hilfs- und Assistenzmitteln sowie geeigneten Beratungs- und Informationsangeboten, wird eine gleichberechtigte Partizipation ermöglicht.
 

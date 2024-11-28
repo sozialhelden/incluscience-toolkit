@@ -1,3 +1,5 @@
+# Partizipatives Vorgehen in der Umsetzung eines Citizen Science-Projekts am Beispiel von IncluScience
+
 Citizen Science erfordert eine frühzeitige Einbindung von Bürger\*innen in den Forschungsprozess, wobei ein hohes Maß an Mitbestimmung und Partizipation angestrebt werden sollte. Diese Prozesse müssen barrierefrei gestaltet werden, um die Beteiligung aller zu ermöglichen. Im Projekt **IncluScience** wurde ein methodischer Rahmen entwickelt, der Bürgerinnen mit Behinderungen, ihre Repräsentantinnen sowie weitere Stakeholder aktiv und auf Augenhöhe in den Forschungs- und Entwicklungsprozess integrierte. Dadurch wurde ein hohes Maß an Partizipation erreicht, in dem die Beteiligten nicht nur als Datenlieferantinnen, sondern als Co-Designer\*innen agierten.
 
 Ein iterativer, partizipativer Ansatz hat sich als zentral für den Erfolg erwiesen. Der im Projekt verwendete methodische Rahmen bestand aus drei Iterationsschleifen, die jeweils vier Schritte umfassten:

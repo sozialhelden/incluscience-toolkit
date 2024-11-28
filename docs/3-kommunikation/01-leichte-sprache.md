@@ -1,3 +1,5 @@
+# Leichte Sprache
+
 Die Möglichkeiten, in einer gemeinsamen Sprache zu kommunizieren, sind essenziell für Partizipation, Inklusion und die gesellschaftliche Teilhabe an Citizen-Science-Projekten. Eine verständliche Wissenschaftskommunikation ermöglicht eine breite Rezeption, Anwendung und Partizipation. Im Kontext von Citizen Science spielen dabei die „Leichte Sprache“ und die „Einfache Sprache“ eine zentrale Rolle.
 
 ### 3.1.1 Einführung: Grundlagen Leichter Sprache

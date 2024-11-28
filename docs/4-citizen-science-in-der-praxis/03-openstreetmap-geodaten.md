@@ -1,3 +1,5 @@
+# Nachhaltige Integration von Geodaten in OpenStreetMap
+
 Ein zentraler Aspekt von Citizen Science-Projekten, die Geodaten erheben, ist die nachhaltige Nutzung der generierten Daten. Ein Beispiel aus dem Projekt *IncluScience* zeigt, wie durch die direkte Integration von erhobenen Daten in OpenStreetMap (OSM) nicht nur die Sichtbarkeit und Verfügbarkeit, sondern auch die globale Nutzbarkeit der Daten sichergestellt werden kann. OSM als eine der weltweit größten freien Geodatenbanken bietet die Möglichkeit, Daten langfristig zu speichern, zu teilen und weiterzuentwickeln.
 
 !!! tip "Tipp"
