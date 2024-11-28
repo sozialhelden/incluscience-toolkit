@@ -26,11 +26,11 @@ Ein zentraler Aspekt von Citizen Science-Projekten, die Geodaten erheben, ist di
 4. **Integration der Daten**  
    Sie können bereits vor Annahme eines Proposals Daten mit den neuen Keys und Values in OSM einpflegen. Wenn die Daten nachhaltig im Datensatz „überleben“ sollen, ist ein Proposal dennoch vorteilhaft.
 
-### Warum OSM?
+## Warum OSM?
 
 Projekte, die Geodaten erheben, sollten prüfen, ob eine Integration der Daten in OSM sinnvoll ist. Dies sichert die nachhaltige Nutzung und ermöglicht anderen, die Daten zu nutzen oder weiterzuentwickeln. Gleichzeitig werden Datensätze kompatibel zu einer großen Anzahl bestehender Analyse-Werkzeuge, mit denen die Daten statistisch erfasst, qualitativ verbessert und mit anderen Datensätzen (z.B. über Populationsdichten) verschnitten werden können.
 
-### Erfolgsfaktoren
+## Erfolgsfaktoren
 
 * Klare und prägnante Proposals, die die Bedeutung der neuen Keys und Values erklären.  
 * Aktive Beteiligung an der Diskussion in der OSM-Community.  
