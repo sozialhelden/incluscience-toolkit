@@ -1,6 +1,6 @@
 # Vorwort und Überblick
 
-![IncluScience-Logo: Ein Erlenmeyer-Kolben, in dem sich zwei stilisierte Hände die Hand geben. Eine Hand ist eine Prothese.|80](images/logo-complex.svg)
+<img alt="IncluScience-Logo: Ein Erlenmeyer-Kolben, in dem sich zwei stilisierte Hände die Hand geben. Eine Hand ist eine Prothese" width="80" src="./images/logo-complex.svg" />
 
 Citizen Scientists forschen.
 
@@ -16,14 +16,15 @@ Der Inhalt des Citizen-Science-Instrumentenkoffers umfasst die in diesem Projekt
 
 Resultat ist schließlich das hier vorliegende Dokument, das hilfreiche Empfehlungen für folgende Themen bietet:
 
-* **[[00-index]]:** Einführung grundlegender Begriffe und Konzepte. Die Themen Behinderung, Inklusion, inklusive Citizen Science sowie Disability Mainstreaming werden dabei berücksichtigt.
-* **Kapitel 2**: Praxisnahe Planung der Partizipation von Menschen mit Behinderungen, einschließlich der Beteiligung an der Forschungsfrage sowie der Frage nach Assistenz und Aufwandsentschädigung.  
-* **Kapitel 3**: Gestaltung barrierearmer Kommunikationswege. Hier geht es um die Ansprache von Menschen mit Behinderungen als Expert\*innen und die Gestaltung inklusiver Kommunikation.  
-* **Kapitel 4**: Citizen Science in der Praxis. Dieses Kapitel umfasst Themen wie die Planung und Durchführung von Veranstaltungen, iterative Vorgehensweisen und inklusive Ansätze.
+* [[docs/1. Einführung und Begriffsklärungen/index|Kapitel 1]]: Einführung grundlegender Begriffe und Konzepte. Die Themen Behinderung, Inklusion, inklusive Citizen Science sowie Disability Mainstreaming werden dabei berücksichtigt.
+* [[docs/2. Partizipative Forschung planen/index|Kapitel 2]]: Praxisnahe Planung der Partizipation von Menschen mit Behinderungen, einschließlich der Beteiligung an der Forschungsfrage sowie der Frage nach Assistenz und Aufwandsentschädigung.  
+* [[docs/3. Kommunikation/index|Kapitel 3]]: Gestaltung barrierearmer Kommunikationswege. Hier geht es um die Ansprache von Menschen mit Behinderungen als Expert\*innen und die Gestaltung inklusiver Kommunikation.  
+* [[docs/4. Citizen Science in der Praxis/index|Kapitel 4]]: Citizen Science in der Praxis. Dieses Kapitel umfasst Themen wie die Planung und Durchführung von Veranstaltungen, iterative Vorgehensweisen und inklusive Ansätze.
 
 Alle (Teil-)Kapitel enden jeweils mit konkreten Gestaltungsempfehlungen sowie – wenn notwendig – Forderungslisten für inklusives Vorgehen.
 
 Wir wünschen gute Lektüre. Vielleicht setzen Sie in Ihrem nächsten Vorhaben einige Ideen um. Es würde uns freuen.
 
 [Sozialheld\*innen](https://sozialhelden.de)
-[Sozialforschungsstelle derTU Dortmund](https://sfs.sowi.tu-dortmund.de)
+
+[Sozialforschungsstelle Dortmund](https://sfs.sowi.tu-dortmund.de)

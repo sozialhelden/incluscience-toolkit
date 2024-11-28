@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/6. Literatur/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -243,6 +243,7 @@
   },
   "active": "a2f967ffec6c081b",
   "lastOpenFiles": [
+    "docs/index.md",
     "docs/images/share-pic.png",
     "docs/4. Citizen Science in der Praxis/4.1 Planung und Durchführung von Veranstaltungen.md",
     "docs/images/sozialhelden-icon.svg",
@@ -288,7 +289,6 @@
     "docs/1. Einführung",
     "docs/Einführung",
     "site/assets/images/favicon.png",
-    "site/images/sozialhelden.svg",
     "Einführung und Begriffsklärungen/Untitled.canvas"
   ]
 }
