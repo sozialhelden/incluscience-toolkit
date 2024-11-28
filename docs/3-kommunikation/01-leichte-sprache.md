@@ -2,7 +2,7 @@
 
 Die Möglichkeiten, in einer gemeinsamen Sprache zu kommunizieren, sind essenziell für Partizipation, Inklusion und die gesellschaftliche Teilhabe an Citizen-Science-Projekten. Eine verständliche Wissenschaftskommunikation ermöglicht eine breite Rezeption, Anwendung und Partizipation. Im Kontext von Citizen Science spielen dabei die „Leichte Sprache“ und die „Einfache Sprache“ eine zentrale Rolle.
 
-### 3.1.1 Einführung: Grundlagen Leichter Sprache
+### Einführung: Grundlagen Leichter Sprache
 
 Seit den 1990er-Jahren entwickelte sich die Leichte Sprache in Deutschland als eine Kommunikationsform, die Menschen mit besonderen Bedarfen den Zugang zu Informationen erleichtert. Ziel ist die „Verständlichkeitsoptimierung“ (Girard-Groeber & Lichtenauer, 2024, S. 22\) von Texten, indem diese auf Satz-, Text- und Wortebene sowie durch Gestaltungselemente wie Typografie und Layout gezielt angepasst werden.
 
@@ -14,7 +14,7 @@ Grundregeln der Leichten Sprache gemäß DIN SPEC 33429:
 * Vermeidung von Passivkonstruktionen.  
 * Kurze Absätze mit jeweils einer zentralen Information.
 
-### 3.1.2 Empowerment und Ziele Leichter Sprache
+### Empowerment und Ziele Leichter Sprache
 
 Leichte Sprache verfolgt emanzipatorische und partizipatorische Ziele, die unter anderem folgendes bewirken:
 
@@ -24,7 +24,7 @@ Leichte Sprache verfolgt emanzipatorische und partizipatorische Ziele, die unter
 4. **Rechte kennen und einfordern:** Besonders im Kontext von Sozialhilfe ermöglicht Leichte Sprache das Vertreten eigener Interessen.  
 5. **Gestaltung von Lebensbedingungen:** Betroffene können ihre Interessen artikulieren und ihre Lebensumstände aktiv mitgestalten.
 
-### 3.1.3 Einfache Sprache
+### Einfache Sprache
 
 Einfache Sprache ist eine weniger strikte Variante der Leichten Sprache und richtet sich an ein breiteres Publikum. Sie unterscheidet sich durch:
 
@@ -34,15 +34,15 @@ Einfache Sprache ist eine weniger strikte Variante der Leichten Sprache und rich
 
 Einfache Sprache bildet eine Brücke zwischen Standardsprache und Leichter Sprache, bietet jedoch weniger normierte Vorgaben.
 
-### 3.1.4 Vergleich von Leichter und Einfacher Sprache
+### Vergleich von Leichter und Einfacher Sprache
 
 Leichte Sprache rangiert im Europäischen Referenzrahmen für Sprachen auf Niveau A1–A2, während Einfache Sprache sich zwischen A2 und B1 bewegt. Während Leichte Sprache Menschen mit spezifischen Bedarfen, wie Lernschwierigkeiten, anspricht, zielt Einfache Sprache auf ein allgemeines Publikum ab.
 
-### 3.1.5 Typografische Gestaltung von Texten in Leichter Sprache
+### Typografische Gestaltung von Texten in Leichter Sprache
 
 Die Gestaltung von Texten, etwa durch Schriftart, \-größe und Layout, ist essenziell für die Lesbarkeit und Glaubwürdigkeit von Inhalten. Vorgaben wie die DIN SPEC 33429 bieten inzwischen Orientierung, um eine einheitliche Gestaltung sicherzustellen.
 
-### 3.1.6 Digitale Barrierefreiheit von Webseiten und Apps
+### Digitale Barrierefreiheit von Webseiten und Apps
 
 Digitale Barrierefreiheit ist eine Grundvoraussetzung für inklusive Citizen Science. Standards wie die **Web Content Accessibility Guidelines (WCAG 2.1)** und die **Barrierefreie-Informationstechnik-Verordnung (BITV)** definieren klare Anforderungen, um Webseiten und Apps zugänglich zu gestalten.
 

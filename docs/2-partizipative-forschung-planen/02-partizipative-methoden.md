@@ -75,7 +75,7 @@ Insgesamt zeigt sich, dass es zahlreiche partizipative Ansätze gibt. Diese Aufl
 * Jungk, R.; Müllert, N. (1989). **Zukunftswerkstätten. Mit Phantasie gegen Routine und Resignation.** München.  
 * Aktionsbündnis Teilhabeforschung. Arbeitsgruppe partizipative Forschung und Forschungsmethoden. **Partizipative Forschung – 10 Methoden.** (S. 18–20). Verfügbar unter: [https://www.teilhabeforschung.org/fileadmin/user\_upload/Partizipative\_Forschungsmethoden\_AG\_Partizipative\_Forschung\_und\_Forschungsmethoden.pdf](https://www.teilhabeforschung.org/fileadmin/user_upload/Partizipative_Forschungsmethoden_AG_Partizipative_Forschung_und_Forschungsmethoden.pdf).
 
-## 2.3.2 Partizipative Forschung barrierefrei planen
+## Partizipative Forschung barrierefrei planen
 
 Um Forschung erfolgreich partizipativ und inklusiv umzusetzen, empfiehlt es sich, ein Forschungsvorhaben frühzeitig so zu planen, dass Inklusion und Partizipation von Anfang an als wichtige Aufgabe im Fokus stehen. Ausgehend von den Erfahrungen aus dem IncluScience Projekt wurde ein Modell erarbeitet, das diese Zielsetzung aufgreift und konkrete Punkte benennt (Schulz et al. 2024, i.E.).
 
@@ -103,7 +103,7 @@ Die folgenden Empfehlungen basieren auf dem entwickelten Modell:
 
 Die beschriebenen Empfehlungen sollen dazu beitragen, inklusive und partizipative Forschung von Anfang an systematisch zu fördern und Herausforderungen in späteren Projektphasen zu minimieren.
 
-## 2.3.3 Partizipative Forschung barrierefrei umsetzen
+## Partizipative Forschung barrierefrei umsetzen
 
 Wenn die Planungsphase erfolgreich abgeschlossen ist und sowohl die Sicherstellung von Partizipation als auch Barrierefreiheit als zentrale Aufgaben aufgenommen worden sind, stellt sich die Frage nach der inklusiven, partizipativen Projektumsetzung. Hierzu ergibt sich aus dem Modell, das vor dem Hintergrund der Erfahrungen aus dem IncluScience-Projekt entwickelt wurde (s. Kapitel zur inklusiven Planung partizipativer Forschung), die Empfehlung eines kontinuierlichen Kreislaufs (Schulz et al. 2024, i.E.).
 
@@ -156,7 +156,7 @@ Diese Elemente beeinflussen einen Feedback-Mechanismus, der wie folgt dargestell
 * Identifikation weiterer Barrieren.
 * Der Mechanismus beginnt wieder von vorn bei Schritt 1.][image1]
 
-## 2.3.4 Erreichen von Menschen mit Behinderungen
+## Erreichen von Menschen mit Behinderungen
 
 Inklusive Citizen Science in der Praxis zielt darauf ab, die Beteiligung aller Bürger\*innen zu ermöglichen – unabhängig von individuellen Merkmalen. Ein möglichst hohes Maß an Barrierefreiheit ist ein zentraler Baustein dafür und schafft die Grundlage für die Beteiligung vieler Menschen mit unterschiedlichen Bedarfen. Doch allein Barrierefreiheit reicht nicht aus. Wenn Bürger\*innen nicht erreicht oder ihr Interesse nicht geweckt wird, kann inklusive Citizen Science ihr Potenzial nicht entfalten.
 
@@ -186,7 +186,7 @@ Menschen mit Behinderungen sind oft sowohl Bürger\*innen als auch Forschende. S
 
 Durch den gezielten Einsatz dieser Maßnahmen kann die Reichweite von Citizen-Science-Projekten vergrößert und die gleichberechtigte Teilhabe aller Bürger\*innen gefördert werden.
 
-## 2.3.5 Beteiligung bei der Erarbeitung einer Forschungsfrage
+## Beteiligung bei der Erarbeitung einer Forschungsfrage
 
 Inklusive Citizen Science bedeutet den Einbezug von Bürger\*innen in allen Phasen eines Projekts. Demzufolge sollten Menschen mit Behinderungen möglichst frühzeitig beteiligt werden, idealerweise bereits in der Planungsphase, bei der Ideenentwicklung und der Entwicklung der Forschungsfrage(n).
 
