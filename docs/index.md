@@ -25,6 +25,13 @@ Alle (Teil-)Kapitel enden jeweils mit konkreten Gestaltungsempfehlungen sowie �
 
 Wir wünschen gute Lektüre. Vielleicht setzen Sie in Ihrem nächsten Vorhaben einige Ideen um. Es würde uns freuen.
 
-[Sozialheld\*innen](https://sozialhelden.de)
 
-[Sozialforschungsstelle Dortmund](https://sfs.sowi.tu-dortmund.de)
+Zitationsangabe:
+
+Sozialforschungsstelle (sfs) der TU Dortmund: 
+Bastian Pelka, Ann Christin Schulz, Daniel Krüger, Lisa-Marian Schmidt und Siba Tiefenbach
+
+Sozialhelden e.V.: 
+Lilly Ettlich, Marie Lampe, Jonas Deister, Sebastian Felix Zappe und Adina Hermann
+
+[Sozialheld\*innen](https://sozialhelden.de) [Sozialforschungsstelle Dortmund](https://sfs.sowi.tu-dortmund.de)
