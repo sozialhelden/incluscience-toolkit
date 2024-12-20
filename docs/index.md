@@ -35,3 +35,6 @@ Sozialhelden e.V.:
 Lilly Ettlich, Marie Lampe, Jonas Deister, Sebastian Felix Zappe und Adina Hermann
 
 [Sozialheld\*innen](https://sozialhelden.de) [Sozialforschungsstelle Dortmund](https://sfs.sowi.tu-dortmund.de)
+
+
+<img alt="Logo: Gefördert vom Bundesministerium für Bildung und Forschung" width="200" src="./images/BMBF-Logo.jpg" />
