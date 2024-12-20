@@ -37,4 +37,4 @@ Lilly Ettlich, Marie Lampe, Jonas Deister, Sebastian Felix Zappe und Adina Herma
 [Sozialheld\*innen](https://sozialhelden.de) [Sozialforschungsstelle Dortmund](https://sfs.sowi.tu-dortmund.de)
 
 
-<img alt="Logo: Bürger schaffen Wissen" width="200" src="./images/Buerger-Forschung_Logo.jpg" /> <img alt="Logo: Gefördert vom Bundesministerium für Bildung und Forschung" width="200" src="./images/BMBF-Logo.jpg" />
+<img alt="Logo: Bürger schaffen Wissen" width="180" src="./images/Buerger-Forschung_Logo.jpg" /> <img alt="Logo: Gefördert vom Bundesministerium für Bildung und Forschung" width="180" src="./images/BMBF-Logo.jpg" />
