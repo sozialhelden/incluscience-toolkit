@@ -42,18 +42,14 @@ Diese Checkliste dient als schnelle und einfache Orientierungshilfe, um sicherzu
 
 ## Multiplikator*innen einbeziehen
 - [ ] **Sind Multiplikator*innen und Gatekeeper (z. B. Behindertenbeauftragte, Selbstvertretungsorganisationen) eingebunden, um Menschen mit Behinderungen zu erreichen?**  
-  *(vgl. [Kapitel 2.3.4, "Erreichen von Menschen mit Behinderungen"](https://toolkit.incluscience.org/))*
+  *(vgl. [Kapitel 2.3.4, "Erreichen von Menschen mit Behinderungen"](https://toolkit.incluscience.org/2-partizipative-forschung-planen/02-partizipative-methoden/#hilfe-von-multiplikatorinnen-und-gatekeepern))*
 
 ## Feedback und kontinuierliche Verbesserung
 - [ ] **Wird Feedback zur Barrierefreiheit eingeholt und zur Verbesserung genutzt?**  
-  *(vgl. [Kapitel 2.3.3, "Partizipative Forschung barrierefrei umsetzen"](https://toolkit.incluscience.org/))*
+  *(vgl. [Kapitel 2.3.3, "Partizipative Forschung barrierefrei umsetzen"](https://toolkit.incluscience.org/2-partizipative-forschung-planen/02-partizipative-methoden/#partizipative-forschung-barrierefrei-umsetzen))*
 - [ ] **Gibt es einen Plan zur kontinuierlichen Anpassung an neue Bedürfnisse?**  
-  *(vgl. [Kapitel 2.3.3, "Partizipative Forschung barrierefrei umsetzen"](https://toolkit.incluscience.org/))*
+  *(vgl. [Kapitel 2.3.3, "Partizipative Forschung barrierefrei umsetzen"](https://toolkit.incluscience.org/2-partizipative-forschung-planen/02-partizipative-methoden/#partizipative-forschung-barrierefrei-umsetzen))*
 
 ## Digitale Barrierefreiheit
 - [ ] **Sicherstellen, dass alle digitalen Inhalte (Websites, Videos) den Anforderungen an barrierefreie Kommunikation entsprechen (z. B. Untertitel, Alternativtexte).**  
-  *(vgl. [Kapitel 3.1, "Leichte Sprache"](https://toolkit.incluscience.org/))*
-
----
-
-Für detaillierte Informationen und weiterführende Inhalte wird auf den **[Instrumentenkoffer für inklusive Bürger*innenwissenschaft](https://toolkit.incluscience.org/)** verwiesen.
+  *(vgl. [Kapitel 3.1, "Leichte Sprache"](https://toolkit.incluscience.org/3-kommunikation/01-leichte-sprache/))*
