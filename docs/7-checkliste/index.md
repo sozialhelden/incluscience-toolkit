@@ -12,19 +12,19 @@ Diese Checkliste dient als schnelle und einfache Orientierungshilfe, um sicherzu
 - [x] **Wurde geprüft, ob Menschen mit Behinderungen von der Maßnahme profitieren oder betroffen sein könnten?**  
   *(vgl. [Kapitel 1.1, "Behinderung"](https://toolkit.incluscience.org/1-intro/01-behinderung/))*
 - [x] **Werden alle diversitätsstiftenden Merkmale (z. B. Geschlecht, Herkunft, Behinderung) berücksichtigt?**  
-  *(vgl. [Kapitel 1.2, "Inklusion"](https://toolkit.incluscience.org/02-inklusion/))*
+  *(vgl. [Kapitel 1.2, "Inklusion"](https://toolkit.incluscience.org/1-intro/02-inklusion/))*
 
 ## Frühe Beteiligung sicherstellen
 - [x] **Sind Menschen mit Behinderungen frühzeitig, z. B. bei der Themen- oder Projektplanung, als Partner*innen einbezogen?**  
-  *(vgl. [Kapitel 2.2, "Menschen mit Behinderungen als Co-Forschende"](https://toolkit.incluscience.org/01-menschen-mit-behinderungen-als-co-forschende/))*
+  *(vgl. [Kapitel 2.2, "Menschen mit Behinderungen als Co-Forschende"](https://toolkit.incluscience.org/2-partizipative-forschung-planen/01-menschen-mit-behinderungen-als-co-forschende/))*
 - [x] **Wurden Expert*innen in eigener Sache zur Beratung herangezogen?**  
-  *(vgl. [Kapitel 2.2, "Menschen mit Behinderungen als Co-Forschende"](https://toolkit.incluscience.org/01-menschen-mit-behinderungen-als-co-forschende/))*
+  *(vgl. [Kapitel 2.2, "Menschen mit Behinderungen als Co-Forschende"](https://toolkit.incluscience.org/2-partizipative-forschung-planen/01-menschen-mit-behinderungen-als-co-forschende/))*
 
 ## Barrierefreie Planung
 - [x] **Wurden alle Veranstaltungsorte auf Barrierefreiheit geprüft?**  
   *(vgl. [Kapitel 2.3.2, "Partizipative Forschung barrierefrei planen"](https://toolkit.incluscience.org/2-partizipative-forschung-planen/))*
 - [x] **Ist die Kommunikation (z. B. Einladungen, Infomaterial) barrierefrei gestaltet (Leichte Sprache, visuelle Unterstützung)?**  
-  *(vgl. [Kapitel 3.1, "Leichte Sprache"](https://toolkit.incluscience.org/01-leichte-sprache/))*
+  *(vgl. [Kapitel 3.1, "Leichte Sprache"](https://toolkit.incluscience.org/3-kommunikation/01-leichte-sprache/))*
 - [x] **Wurden Hilfs- und Assistenzmittel frühzeitig eingeplant?**  
   *(vgl. [Kapitel 2.4, "Hilfs- und Assistenzmittel"](https://toolkit.incluscience.org/2-partizipative-forschung-planen/03-hilfs-und-assistenzmittel/))*
 
