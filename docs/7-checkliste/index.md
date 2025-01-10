@@ -4,7 +4,7 @@ Diese Checkliste dient als schnelle und einfache Orientierungshilfe, um sicherzu
 
 !!! tip "**PDF-Version zum Download:**"
 	
-    Eine fertig formatierte PDF-Version dieser Checkliste finden Sie in folgendem Google Doc (bitte als PDF exportieren): [**Checkliste für Barrierefreiheit und Inklusion (Google Doc)**](https://docs.google.com/document/d/1-8QdT-xk-wBOQsXwCOwaFw6_Lr99f_F27JEaqwyN9vw/edit?usp=sharing)
+    Eine fertig formatierte PDF-Version dieser Checkliste können Sie hier direkt downloaden: [**Checkliste für Barrierefreiheit und Inklusion**](https://docs.google.com/document/d/1-8QdT-xk-wBOQsXwCOwaFw6_Lr99f_F27JEaqwyN9vw/export?format=pdf)
 
 ---
 
