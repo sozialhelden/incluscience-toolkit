@@ -9,7 +9,7 @@ Diese Checkliste dient als schnelle und einfache Orientierungshilfe, um sicherzu
 ---
 
 ## Zielgruppe berücksichtigen
-- [ ] **Wurde geprüft, ob Menschen mit Behinderungen von der Maßnahme profitieren oder betroffen sein könnten?**  
+- [x] **Wurde geprüft, ob Menschen mit Behinderungen von der Maßnahme profitieren oder betroffen sein könnten?**  
   *(vgl. [Kapitel 1.1, "Behinderung"](https://toolkit.incluscience.org/1-intro/01-behinderung/))*
 - [ ] **Werden alle diversitätsstiftenden Merkmale (z. B. Geschlecht, Herkunft, Behinderung) berücksichtigt?**  
   *(vgl. [Kapitel 1.2, "Inklusion"](https://toolkit.incluscience.org/02-inklusion/))*
